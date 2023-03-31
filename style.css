@@ -1,0 +1,33 @@
+.header{
+    width: 100%;
+    text-align: left;
+}
+.heading{
+    display: inline;
+}
+.header button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+#status{
+    font-size: 22px;
+}
+.copy_right_footer{
+    color: white;
+    background-color: gainsboro;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.image_instruction{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
